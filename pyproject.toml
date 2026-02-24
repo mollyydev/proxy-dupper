@@ -1,7 +1,7 @@
 [project]
-name = "proxy-dupper"
+name = "ProxyDupper"
 version = "0.1.0"
-description = "Add your description here"
+description = "Proxy Dupper takes a list of authenticated proxies, groups them by /24 network, generates all IPs in each /24, checks them, and saves the valid ones."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
